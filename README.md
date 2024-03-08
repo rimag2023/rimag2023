@@ -33,7 +33,7 @@ Here you will find some information about my journey into the world of data scie
 4. Radiation Calculation
 
 ## Certifications
-• ## "Introduction to Large Language Models" with "Coursera"
+• "Introduction to Large Language Models" with "Coursera"
 https://www.coursera.org/account/accomplishments/verify/MHYD7Q7C245B
 •
 
