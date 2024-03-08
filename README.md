@@ -33,11 +33,12 @@ Here you will find some information about my journey into the world of data scie
 4. Radiation Calculation
 
 ## Certifications
-• 
+• ## "Introduction to Large Language Models" with "Coursera"
+https://www.coursera.org/account/accomplishments/verify/MHYD7Q7C245B
 •
 
 ## Learning Resources
-• Data Science Skills Boot Camp: Enrolled in online course with HyperionDev(CoGrammar) to learn new concepts and techniques in data science. Working on various concepts, tasks and projects.
+• Data Science Skills Boot Camp: Enrolled in online course with HyperionDev(CoGrammar Ltd) to learn new concepts and techniques in data science. Working on various concepts, tasks and projects.
 
 • Books and Computing Magazines: Continuously reading books and magazine articles on data science, machine learning, and statistics to deepen my understanding.
 
