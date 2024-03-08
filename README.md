@@ -25,9 +25,12 @@ Here you will find some information about my journey into the world of data scie
 
 2. Sentiment Analysis of Product Reviews
 • Conducted sentiment analysis on dataset of product reviews using natuaral language processing techniques.
+
 • Preprocessed text data, built a classification model to classify reviews into positive, negative and neutral sentiments.
+
 • Visualized sentiment distribution and analysed key insights from the data.
-3. Radiation Calculation
+
+4. Radiation Calculation
 
 ## Certifications
 • 
@@ -35,15 +38,18 @@ Here you will find some information about my journey into the world of data scie
 
 ## Learning Resources
 • Data Science Skills Boot Camp: Enrolled in online course with HyperionDev(CoGrammar) to learn new concepts and techniques in data scienece. Working on various concepts, tasks and projects.
+
 • Books and Computing Magazines: Continuously reading books and magazine articles on data science, machine learning, and statistics to deepen my understanding.
+
 • Community Engagement: Actively participate in online forums, meetups, and workshops to connect with other data enthusiasts and learn from their experiences.
 
 ## 📫 Contact Me
+
 Feel free to connect with me on Linkedin:
 
 
 
-Here are some ideas to get you started:
+
 <!--
 **rimag2023/rimag2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
