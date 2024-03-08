@@ -46,8 +46,7 @@ Here you will find some information about my journey into the world of data scie
 ## 📫 Contact Me
 
 Feel free to connect with me on Linkedin:
-
-
+www.linkedin.com/in/rima-gray-b448832a7/
 
 
 <!--
