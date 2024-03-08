@@ -6,7 +6,7 @@ Here you will find some information about my journey into the world of data scie
  
 
 ## About Me
-🌱 I am passionate individual with keen interest in data science and its applications. As a trainee in this field, I am constantly learning and exploring new techniques to analyze data, extract insights, and make data-driven decisions.
+🌱 I am passionate individual with a keen interest in data science and its applications. As a trainee in this field, I am constantly learning and exploring new techniques to analyze data, extract insights, and make data-driven decisions.
 
 ## 🔭 Skills
 • Programming Languages: Proficient in Python, with knowledge of libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn.
