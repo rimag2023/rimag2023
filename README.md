@@ -10,9 +10,13 @@ Here you will find some information about my journey into the world of data scie
 
 ## 🔭 Skills
 • Programming Languages: Proficient in Python, with knowledge of libraries such as NumPy, Pandas, Matplotlib, and Scikit-learn.
+
 • Data Analysis: Experienced in data cleaning, manipulation, visualization, and statistical analysis.
+
 • Machine Learning: Familiar with various machine learning algorithms for classification, regression, clustering, and deep learning.
+
 • Data Visualization: Skilled in creating insightful visualizations using tools like Matplotlib, Seaborn, and Tableau.
+
 • SQL: Competent in writing SQL queries for data extraction, information, and analysis.
 
 ## Projects
