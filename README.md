@@ -1,7 +1,7 @@
 # 👋 Hello! I am Rima. 
 ## Nice to meet you!
 
-✨ Welcome to my Data Science Trainee Portfolio! -  
+✨ Welcome to my Data Science Trainee Portfolio! 
 Here you will find some information about my journey into the world of data science, projects I have worked on, and skills I have acquired along the way.
  
 
@@ -30,12 +30,11 @@ Here you will find some information about my journey into the world of data scie
 
 • Visualized sentiment distribution and analysed key insights from the data.
 
-4. Radiation Calculation
+3. Radiation Calculation
 
 ## Certifications
 • "Introduction to Large Language Models" with "Coursera"
 https://www.coursera.org/account/accomplishments/verify/MHYD7Q7C245B
-•
 
 ## Learning Resources
 • Data Science Skills Boot Camp: Enrolled in online course with HyperionDev(CoGrammar Ltd) to learn new concepts and techniques in data science. Working on various concepts, tasks and projects.
@@ -47,7 +46,7 @@ https://www.coursera.org/account/accomplishments/verify/MHYD7Q7C245B
 ## 📫 Contact Me
 
 Feel free to connect with me on Linkedin:
-www.linkedin.com/in/rima-gray-b448832a7/
+https://www.linkedin.com/in/rima-gray-b448832a7/
 
 
 <!--
