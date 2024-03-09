@@ -19,7 +19,7 @@ Here you will find some information about my journey into the world of data scie
 
 • SQL: Competent in writing SQL queries for data extraction, information, and analysis.
 
-## Projects
+## 🌟 Projects
 
 1. Holiday Expense Planner
 
@@ -32,11 +32,11 @@ Here you will find some information about my journey into the world of data scie
 
 3. Radiation Calculation
 
-## Certifications
+## 🗂️ Certifications
 • "Introduction to Large Language Models" with "Coursera"
 https://www.coursera.org/account/accomplishments/verify/MHYD7Q7C245B
 
-## Learning Resources
+## 📚 Learning Resources
 • Data Science Skills Boot Camp: Enrolled in online course with HyperionDev(CoGrammar Ltd) to learn new concepts and techniques in data science. Working on various concepts, tasks and projects.
 
 • Books and Computing Magazines: Continuously reading books and magazine articles on data science, machine learning, and statistics to deepen my understanding.
